@@ -1,0 +1,10 @@
+01.getting-started-with-pytorch.md
+04.first-neural-network.md
+03.image-classification-with-transfer-learning.md
+05.time-series-forecasting-covid-19.md
+06.time-series-anomaly-ecg.md
+02.face-detection-with-detectron2.md
+07.create-dataset-for-sentiment-analysis.md
+08.sentiment-analysis-with-bert.md
+09.deploy-bert-rest-api.md
+10.object-detection-with-YOLO-v5.md
